@@ -1,0 +1,58 @@
+* {
+ }
+
+
+body{
+	margin: 10px;
+	padding: 0;
+	overflow: hidden;
+	border: 1px solid rgba(0, 0, 0, 0.3) ;
+	background-color: #ceca96;
+
+
+}
+
+header{
+	background-color: #13a050;
+}
+
+
+
+.container{
+	width: 1024px;
+	margin: 0px, auto;
+}
+
+#main-bio{
+	
+	width: 70%;
+	text-align: center;
+	color: #eee;
+	font-size: 28px;
+
+}
+
+#contact-info{
+	font-size: 24px;
+    width: 30%;
+	text-decoration: underline;
+	
+}
+
+#bio-image{
+	float: left;
+	width: 200px;
+	margin: 0;
+	border: 1px solid #0f0b19;
+
+}
+
+p{
+	line-height: 150%;
+	padding-right: 100px;
+	margin: 20px;
+}
+
+.big{
+	color: #ce0627;
+}
